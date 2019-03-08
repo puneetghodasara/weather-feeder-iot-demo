@@ -1,0 +1,18 @@
+sap.host=
+sap.deviceId=
+sap.keystore.passphrase=
+sap.keystore.filename=
+
+sap.sensor.temp=
+sap.sensor.pressure=
+sap.sensor.humidity=
+sap.sensor.wind=
+
+sap.capability.temp=
+sap.capability.pressure=
+sap.capability.humidity=
+sap.capability.wind=
+
+cron.expression=0 * * * * *
+owm.key=
+owm.cityId=7778677
